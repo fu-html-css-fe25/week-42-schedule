@@ -19,10 +19,10 @@ Vi bekantar oss även med versionshantering i Git – ett viktigt verktyg för a
 ## Resurser
 
 ### Presentationer
-* [Kursintro]()
-* [Versionshantering och GitHub]()
-* [HTML]()
-* [CSS]()
+* [Kursintro](https://docs.google.com/presentation/d/1ChzcRrGj2gTfcMEbPvoFjF6BkcR5oJkB/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Versionshantering och GitHub](https://docs.google.com/presentation/d/1PdWOGVX_VvRC_9ICwRNlv40GNFP2Voj3/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [HTML](https://docs.google.com/presentation/d/1t3q9ANqVXMgABPFg1tIB9mkqbfvd-cYa/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [CSS](https://docs.google.com/presentation/d/1sD3is_Ji3lmcbdbp6I2DyEHARi1D_ijS/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 

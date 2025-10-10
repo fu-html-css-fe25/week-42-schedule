@@ -42,8 +42,8 @@ Vi bekantar oss även med versionshantering i Git – ett viktigt verktyg för a
 * [W3 Schools - HTML Tutorial](https://www.w3schools.com/html/)
 
 ### Övningar
-* [Github Basics Bootcamp]()
-* [VS Code Bootcamp]()
-* [HTML Bootcamp]()
+* [VS Code Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-vscode-bootcamp)
+* [HTML Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-html-bootcamp)
+* [Github Basics Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-github-bootcamp)
 * [CSS Bootcamp]()
 

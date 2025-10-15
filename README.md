@@ -30,6 +30,7 @@ Vi bekantar oss även med versionshantering i Git – ett viktigt verktyg för a
 * 02 - [Git & Github](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EUG9nlFZUKlNtbhkaMV2V9YBHVRz5uNIjgayO5ptguGHXw?e=asxY4Q)
 * 03 - [HTML del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EY_dPAqkXvJHmwRG9RAMjNQBIirwfb9A1_EUS-xXVJcclA?e=KAQtoq)
 * 04 - [HTML del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EQZqiBE72M1Bka_OmLg27akBrk6KNWu8yTvN1HhNUoNeDg?e=Ap1arF)
+* 05 - [CSS](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EfYfHxlxIIZAs17wnFdQFT4BhvlzU8PECARoAHmHxPyL3A?e=m4cLPt)
 
 ### Lektionsrepon
 * [13 okt](https://github.com/fu-html-css-fe25/week-42-lecture-13-okt)

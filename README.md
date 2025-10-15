@@ -33,7 +33,7 @@ Vi bekantar oss även med versionshantering i Git – ett viktigt verktyg för a
 
 ### Lektionsrepon
 * [13 okt](https://github.com/fu-html-css-fe25/week-42-lecture-13-okt)
-* [15 okt]()
+* [15 okt](https://github.com/fu-html-css-fe25/week-42-lecture-15-okt)
 
 
 ### Filmer
@@ -49,5 +49,5 @@ Vi bekantar oss även med versionshantering i Git – ett viktigt verktyg för a
 * [VS Code Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-vscode-bootcamp)
 * [HTML Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-html-bootcamp)
 * [Github Basics Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-github-bootcamp)
-* [CSS Bootcamp]()
+* [CSS Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-css-bootcamp)
 
